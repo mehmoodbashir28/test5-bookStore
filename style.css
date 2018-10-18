@@ -1,0 +1,37 @@
+body{
+    padding: 6px;
+}
+header{
+	padding: 35px 0;
+	color: white;
+	display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap !important;
+    align-content: flex-start;
+    background-color: #0277bd;
+    width: 100%;
+    font-size: 3em;
+}
+
+.logo{
+    height: 65px;
+    background-color: white;
+}
+.slider1{
+    height: 500px;
+}
+#book1{
+    margin-left: 100px !important;
+    /*width: 30%;*/
+}
+#book2{
+    width: 0px !important;
+}
+.book2para{
+    width: 350px !important;
+}
+.r{
+    width: 100px !important ;
+}
